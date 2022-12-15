@@ -1,3 +1,3 @@
 public class Hello {
-	public static void main (String...args0 {
+	public static void main (String...args) {
 	}
